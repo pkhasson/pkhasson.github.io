@@ -4,7 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 <b>SKILLS/COMPETENCIES</b>
-  <br>
 *	Strong computer skills (Microsoft Office, typing, etc.)
    <br>
 *	Knowledge of HTML & XML
