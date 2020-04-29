@@ -3,15 +3,24 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-SKILLS/COMPETENCIES
+<b>Paige Hasson</b>
+<p>
+  <b>SKILLS/COMPETENCIES</b>
+  <br>
 	Strong computer skills (Microsoft Office, typing, etc.)
+   <br>
 	Knowledge of HTML & XML
+   <br>
 	Knowledge of cataloging metadata standards and schemas, LibGuides, OPACs, subject headings, etc.
+   <br>
 	Strong written and oral communication skills
+   <br>
 	Six years customer service experience
+   <br>
 	Experience working in hectic, fast-paced environments & relaxed environments
+   <br>
 	CPR certified
-
+<p>
 EDUCATION
 University of North Carolina at Greensboro (Greensboro, NC)
 2020 Expected Graduation  Master of Library Studies Degree
