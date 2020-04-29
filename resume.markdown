@@ -3,11 +3,11 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-  <b>SKILLS/COMPETENCIES</b>
+  <h2><b>SKILLS/COMPETENCIES</b></h2>
   <br>
-	Strong computer skills (Microsoft Office, typing, etc.)
+*	Strong computer skills (Microsoft Office, typing, etc.)
    <br>
-	Knowledge of HTML & XML
+*	Knowledge of HTML & XML
    <br>
 	Knowledge of cataloging metadata standards and schemas, LibGuides, OPACs, subject headings, etc.
    <br>
@@ -36,6 +36,7 @@ Class of 2015  Psychology Bachelor of Science Degree
 	GPA: 3.75/4.00
 <p>
   <b>WORK EXPERIENCE</b>
+  <br>
 IKEA
    <br>
 151 NW 136th Ave Sunrise, FL 33325
