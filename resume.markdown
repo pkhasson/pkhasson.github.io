@@ -3,21 +3,21 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-  <h2><b>SKILLS/COMPETENCIES</b></h2>
+<h6><b>SKILLS/COMPETENCIES</b></h6>
   <br>
 *	Strong computer skills (Microsoft Office, typing, etc.)
    <br>
 *	Knowledge of HTML & XML
    <br>
-	Knowledge of cataloging metadata standards and schemas, LibGuides, OPACs, subject headings, etc.
+*	Knowledge of cataloging metadata standards and schemas, LibGuides, OPACs, subject headings, etc.
    <br>
-	Strong written and oral communication skills
+*	Strong written and oral communication skills
    <br>
-	Six years customer service experience
+*	Six years customer service experience
    <br>
-	Experience working in hectic, fast-paced environments & relaxed environments
+*	Experience working in hectic, fast-paced environments & relaxed environments
    <br>
-	CPR certified
+*	CPR certified
 <p>
   <b>EDUCATION</b>
   <br>
