@@ -3,6 +3,8 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+[pkhasson@gmail.com](email me)
+
 ## SKILLS/COMPETENCIES
 - Strong computer skills (Microsoft Office, typing, etc.)
 - Knowledge of HTML & XML
