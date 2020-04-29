@@ -14,7 +14,8 @@ permalink: /resume/
 
 ## EDUCATION
 **University of North Carolina at Greensboro (Greensboro, NC)**
-2021 Expected Graduation - Master of Library Studies Degree
+- 2021 Expected Graduation 
+- Master of Library Studies Degree
 
 **Nova Southeastern University (Davie, FL)**
 - Class of 2015 - Psychology Bachelor of Science Degree
@@ -34,11 +35,11 @@ April 2014 – May 2015
 May – August 2012
 
 ## VOLUNTEER WORK
-Animal Aid - PetSmart
+**Animal Aid - PetSmart**
 Volunteer - Cat Adoptions/Cat Care - 2018
 
-Mental Health Association of Southeast Florida - Everglades Elementary School
+**Mental Health Association of Southeast Florida - Everglades Elementary School**
 Volunteer – Active Listener - 2016
 
-Fairy Cat Mother - Pet Supplies Plus
+**Fairy Cat Mother - Pet Supplies Plus**
 Volunteer – Cat Adoptions/Cat Care - 2010 – 2011
