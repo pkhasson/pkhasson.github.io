@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 <html>
 <b>SKILLS/COMPETENCIES</b>
+   <br>
 *	Strong computer skills (Microsoft Office, typing, etc.)
    <br>
 *	Knowledge of HTML & XML
@@ -18,7 +19,9 @@ permalink: /resume/
 *	Experience working in hectic, fast-paced environments & relaxed environments
    <br>
 *	CPR certified
+   
 <p>
+   
   <b>EDUCATION</b>
   <br>
 University of North Carolina at Greensboro (Greensboro, NC)
@@ -34,7 +37,9 @@ Class of 2015 - Psychology Bachelor of Science Degree
 *	Dean’s List Recipient – 2012 – 2015
    <br>
 *	GPA: 3.75/4.00
+   
 <p>
+   
   <b>WORK EXPERIENCE</b>
   <br>
   <i><b>IKEA</i></b>
