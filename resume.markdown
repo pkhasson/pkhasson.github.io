@@ -3,6 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+<html>
 <b>SKILLS/COMPETENCIES</b>
 *	Strong computer skills (Microsoft Office, typing, etc.)
    <br>
@@ -91,3 +92,4 @@ Volunteer – Active Listener - February 2016 – June 2016
 Indian Trace Plaza, 1368 SW 160th Ave, Sunrise, FL 33326
    <br>
 Volunteer – Cat Adoptions/Cat Care - 2010 – 2011
+</html>
