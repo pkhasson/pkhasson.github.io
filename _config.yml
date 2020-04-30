@@ -21,7 +21,7 @@
 title: Paige Hasson
 email: pkhasson@uncg.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome! My name is Paige Hasson and I am a Library Science grad student at UNCG. This is my professional website.
+  Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
