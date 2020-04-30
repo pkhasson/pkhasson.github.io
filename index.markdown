@@ -8,4 +8,4 @@ layout: home
 
 **_Welcome!_**
 
-My name is Paige Hasson and I am a Library Science grad student at UNCG. This is my professional website. Please click on the links above to discover more about me. Feel free to contact me at my email address below if you have any questions or inquiries, or if you simply want to tell me about an interesting new book you read.
+My name is Paige Hasson and I am a Library Science grad student at UNCG. I am set to graduate in Spring 2021, and have a particular interest in metadata and cataloging. This is my simple professional website. Please click on the links above to discover more about me. Feel free to contact me at my email address below if you have any questions or inquiries, or if you simply want to tell me about an interesting new book you read.
