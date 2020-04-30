@@ -4,3 +4,5 @@
 
 layout: home
 ---
+**_Welcome!_**
+My name is Paige Hasson and I am a Library Science grad student at UNCG. This is my professional website. 
